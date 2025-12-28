@@ -15,5 +15,5 @@ dependencyResolutionManagement {
 }
 
 
-rootProject.name = "UnfiMessenger"
+rootProject.name = "UnflMessenger"
 include(":app")

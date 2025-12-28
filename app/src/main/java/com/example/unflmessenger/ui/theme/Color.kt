@@ -1,4 +1,4 @@
-package com.unfi.unfimessenger.ui.theme
+package com.example.unflmessenger.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

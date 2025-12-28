@@ -1,16 +1,13 @@
-package com.unfi.unfimessenger
+package com.example.unflmessenger
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.unfi.unfimessenger.ui.AppRoot
+import com.example.unflmessenger.ui.AppRoot
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContent {
-            AppRoot()
-        }
+        setContent { AppRoot() }
     }
 }
-
